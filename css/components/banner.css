@@ -1,0 +1,9 @@
+.banner {
+  padding: 150px 0;
+  color: white;
+  background-size: cover;
+}
+
+  .banner h1 {
+    font-size: 40px;
+  }
